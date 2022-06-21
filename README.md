@@ -1,4 +1,6 @@
-# File
+### EX NO:10 
+### DATE: 
+# <p align="center">File</p> 
 
 ## Aim:
  To write a C# program to store the student details in file using structure concept.
